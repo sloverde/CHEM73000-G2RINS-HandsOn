@@ -39,7 +39,8 @@ To keep your own copy, use **File → Save a copy in Drive**.
 * Paper: G. Zaldivar, Y. Tian, G. Sun, C. Kappatou, P. Eiden, N. B. Wulkow, V. Settels, J. J. de Pablo,
   *G2RINS: A Generative String-and-Graph Polymer Representation to Assist Computational Materials Discovery*,
   ChemRxiv (2026). [doi:10.26434/chemrxiv.15007504/v1](https://doi.org/10.26434/chemrxiv.15007504/v1)
-* Teaching materials prepared by Prof. Sharon Loverde, College of Staten Island / CUNY Graduate Center.
+* Notebook developed by Prof. Sharon Loverde (College of Staten Island / CUNY Graduate Center) in collaboration with
+  Dr. Gervasio Zaldivar (de Pablo Lab, NYU), lead author of G²RINS.
 
 ## License
 
