@@ -8,7 +8,7 @@ No Python or Colab experience is needed: students run cells and change a few num
 
 ## Open the notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/CHEM73000-G2RINS-HandsOn/blob/main/G2RINS_HandsOn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sloverde/CHEM73000-G2RINS-HandsOn/blob/main/G2RINS_HandsOn.ipynb)
 
 Click the badge above. Or, in [Google Colab](https://colab.research.google.com), choose
 **File → Open notebook → GitHub** and paste the address of this repository.
