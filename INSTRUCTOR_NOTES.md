@@ -15,7 +15,7 @@
 | 10–17 | Activity 2: ensemble, M<sub>n</sub>, M<sub>w</sub>, Đ; students try the three distributions |
 | 17–24 | Activity 3: EO/PO copolymer from Figures 1 and 3; change the composition |
 | 24–30 | Activity 4: random, blocky and alternating sequences; wrap-up questions |
-| optional | Bonus: three-arm star |
+| optional | Bonus: PEG-*b*-PMMA diblock (macroinitiator) |
 
 Start the install cell (Section 1) while Dr. Zaldivar is still introducing G²RINS, so that it is finished when the hands-on part begins.
 
@@ -37,6 +37,13 @@ can form micelles, like the Pluronic PEO–PPO–PEO surfactants. Random and alt
 
 **4.2** No. The initiator can attach to either repeat unit with equal weight, so the first unit is E or P at random. After that, the
 alternating weights force every next unit to be the other kind.
+
+**B.1** The first histogram (target `gauss(3500, 1000)`, M<sub>n</sub> ≈ 3,500 g/mol) is the **whole diblock chain**: the outer distribution
+sets the total molecular weight. The second (target `gauss(1500, 300)`, M<sub>n</sub> ≈ 1,500 g/mol) is the **PEG block** (with its CH<sub>3</sub>O– end),
+the inner stochastic object that acts as the macroinitiator. (Tested: 400 chains gave M<sub>n</sub> = 3,470 and 1,490 g/mol.)
+
+**B.2** PMMA block ≈ 3,500 − 1,500 ≈ 2,000 g/mol, i.e. about 2,000/100.1 ≈ 20 MMA units. Good students will note this is an average:
+the two block lengths fluctuate independently, so individual chains vary.
 
 ## Troubleshooting
 

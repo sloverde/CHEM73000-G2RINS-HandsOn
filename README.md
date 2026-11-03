@@ -23,7 +23,12 @@ To keep your own copy, use **File → Save a copy in Drive**.
 | 2 | Generate 200 chains; compute M<sub>n</sub>, M<sub>w</sub>, Đ; compare distributions | Molecular weight (Lecture 4) |
 | 3 | The EO/PO copolymer from the preprint (Figures 1 and 3) | Chain copolymerization |
 | 4 | Random, blocky and alternating copolymers | Reactivity ratios, block copolymers |
-| ⭐ | A glycerol-initiated three-arm star | Polymer architecture |
+| ⭐ | Bonus: a PEG-*b*-PMMA diblock copolymer, built by using one polymer as the initiator (macroinitiator) of another | Block copolymers (Lecture 3) |
+
+## What's new
+
+* **Nov 3, 2026:** Dr. Zaldivar replaced the bonus example with a **nested PEG-*b*-PMMA diblock** (a whole G²RINS stochastic object used as the
+  initiator of another) and added two bonus questions (B.1, B.2). Polystyrene in Activity 1 now uses `gauss(2000, 240)`.
 
 ## Files
 
